@@ -239,8 +239,7 @@ Remember, `include` is used to add functionality to our classes via instance met
 We can call:
 
 ```ruby
-angelina = Dancer.new
-angelina.twirl
+ 
 // returns "I'm twirling!"
 angelina.jump
 // returns "Look how high I'm jumping!"
